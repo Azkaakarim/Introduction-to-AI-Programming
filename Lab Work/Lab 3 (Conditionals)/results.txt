@@ -1,0 +1,6 @@
+95 → Pass
+67 → Pass
+45 → Fail
+82 → Pass
+50 → Pass
+30 → Fail

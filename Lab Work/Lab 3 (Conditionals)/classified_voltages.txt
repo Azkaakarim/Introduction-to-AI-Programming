@@ -1,0 +1,6 @@
+90V -> Low
+110V -> Medium
+150V -> Medium
+230V -> High
+80V -> Low
+220V -> Medium
