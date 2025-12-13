@@ -1,7 +1,6 @@
-### Lab Reports  
-**Course:** Introduction to AI Programming  
+### Lab Reports    
 
-This folder contains the documented **lab reports** for the *Introduction to AI Programming* course, demonstrating practical application of Python programming concepts used in introductory AI studies.
+This folder contains the documented **lab reports** for the **Introduction to AI Programming** course, demonstrating practical application of Python programming concepts used in introductory AI studies.
 
 ### Coverage
 - Python fundamentals  
