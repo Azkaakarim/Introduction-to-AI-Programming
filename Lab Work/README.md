@@ -1,8 +1,9 @@
 # Lab Work – Introduction to AI Programming  
 
-This repository contains all lab work for the **Introduction to AI Programming** course, covering Labs 2 through 11. Each lab focuses on different Python programming concepts, applied to engineering and AI-related tasks, to help students develop practical programming skills and a strong foundation in data handling.
+This repository contains all lab work for the **Introduction to AI Programming** course, covering Labs 1 through 11. Each lab focuses on different Python programming concepts, applied to engineering and AI-related tasks, to help students develop practical programming skills and a strong foundation in data handling.
 
 ## Folder Structure
+- `Lab1_Introduction/` – Getting started with Python: Hello World, print statements, variables, data types, and basic input/output  
 - `Lab2_Basics/` – Introduction to Python basics, data types, and simple operations  
 - `Lab3_Conditional/` – Conditional statements and decision-making in Python  
 - `Lab4_Functions/` – Functions, arguments, return values, and modular programming  
@@ -22,7 +23,7 @@ The labs aim to provide hands-on experience in Python programming for engineerin
 - Strengthen problem-solving skills for AI programming and data analysis  
 
 ## How to Use
-1. Navigate to the lab folder of interest (e.g., `Lab6_ListAndTuple/`)  
+1. Navigate to the lab folder of interest (e.g., `Lab1_Introduction/` or `Lab6_ListAndTuple/`)  
 2. Open the Jupyter notebook or Python script for that lab  
 3. Run each cell or code block to understand the examples  
 4. Modify examples or add your own code to explore concepts further  
