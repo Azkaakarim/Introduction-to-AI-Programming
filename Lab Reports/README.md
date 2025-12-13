@@ -11,7 +11,8 @@ This folder contains the documented **lab reports** for the **Introduction to AI
 - CSV file handling and basic data processing  
 
 ### Documentation Format
-- **Individual Jupyter Notebook (`.ipynb`) files** for each lab  
+- **Individual Jupyter Notebook (`.ipynb`) files** for each lab
+ - **PDF versions** of all labs are available in a separate folder named `Lab Reports (pdf)`
 
 ### Objective
 To present a clear and organized record of laboratory work reflecting problem-solving skills and programming proficiency.
