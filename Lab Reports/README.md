@@ -8,7 +8,8 @@ This folder contains the documented **lab reports** for the **Introduction to AI
 - Functions and control flow  
 - Data structures (lists, tuples, dictionaries)  
 - List and dictionary comprehensions  
-- CSV file handling and basic data processing  
+- CSV file handling and basic data processing
+- Exceptions handling
 
 ### Documentation Format
 - **Individual Jupyter Notebook (`.ipynb`) files** for each lab
