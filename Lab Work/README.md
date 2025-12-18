@@ -1,6 +1,6 @@
 # Lab Work – Introduction to AI Programming  
 
-This repository contains all lab work for the **Introduction to AI Programming** course, covering Labs 1 through 11. Each lab focuses on different Python programming concepts, applied to engineering and AI-related tasks, to help students develop practical programming skills and a strong foundation in data handling.
+This repository contains all lab work for the **Introduction to AI Programming** course, covering Labs 1 through 13. Each lab focuses on different Python programming concepts, applied to engineering and AI-related tasks, to help students develop practical programming skills and a strong foundation in data handling.
 
 ## Folder Structure
 - `Lab1_Introduction/` – Getting started with Python: Hello World, print statements, variables, data types, and basic input/output  
@@ -14,16 +14,28 @@ This repository contains all lab work for the **Introduction to AI Programming**
 - `Lab9_Loops/` – For loops, while loops, iterations, simulations, and real-world applications  
 - `Lab10_ListComprehension/` – List comprehensions for filtering, transformations, and sequence generation  
 - `Lab11_DictionaryComprehension/` – Dictionary comprehensions, conditional assignments, calculations, indexing, and filtering  
+- `Lab12_ExceptionHandling/` – Exception handling in Python: try/except blocks, raising exceptions, handling assertion errors, and ensuring robust program execution  
+- `Lab13_ReadingAndWriting/` – Reading and writing CSV/text files: recording energy consumption, solar generation, maintenance logs, student audits, electricity billing, fault events, and organizing processed data  
+
+## Topics Covered in Lab 13
+- Recording **hourly load demand** in a CSV file  
+- Logging **daily solar energy generation** and appending new records  
+- Maintaining **transformer maintenance logs** in text files  
+- Storing **student energy audit data** in CSV format  
+- Creating and appending **monthly electricity billing records**  
+- Recording **substation fault events**  
+- Reading CSV data line by line, **counting records**, and displaying formatted output  
+- Writing **processed and organized data** to a new CSV file without overwriting the original  
 
 ## Purpose
 The labs aim to provide hands-on experience in Python programming for engineering and AI applications. Students learn to:
-- Organize and manipulate data efficiently using Python structures  
-- Apply calculations, transformations, and filters to real-world datasets  
-- Build clean, concise, and optimized code using comprehensions and lambda functions  
-- Strengthen problem-solving skills for AI programming and data analysis  
+- Organize, store, and process data efficiently using Python file handling  
+- Maintain consistent data formats for analysis and reporting  
+- Append new data safely without overwriting previous records  
+- Strengthen problem-solving skills for AI programming, energy monitoring, and data analysis  
 
 ## How to Use
-1. Navigate to the lab folder of interest (e.g., `Lab1_Introduction/` or `Lab6_ListAndTuple/`)  
+1. Navigate to the lab folder of interest (e.g., `Lab1_Introduction/` or `Lab13_ReadingAndWriting/`)  
 2. Open the Jupyter notebook or Python script for that lab  
 3. Run each cell or code block to understand the examples  
 4. Modify examples or add your own code to explore concepts further  
