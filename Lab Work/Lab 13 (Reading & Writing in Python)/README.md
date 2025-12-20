@@ -5,15 +5,8 @@ The lab focuses on reading, writing, and organizing data in **CSV and text files
 
 ## Objective
 
-Learn to handle files in Python to:
-
-- Record hourly load demand
-- Log solar energy generation
-- Maintain transformer maintenance reports
-- Store student energy audit data
-- Manage electricity billing records
-- Record substation fault events
-- Process and organize CSV data
+The objective of this lab is to learn and apply Python file handling techniques to solve real-world engineering problems.  
+Students will practice how to read, write, and append data in CSV and text files, maintain logs, and organize recorded measurements.
 
 ## Contents
 
