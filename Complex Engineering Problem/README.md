@@ -1,6 +1,4 @@
 ## Complex Engineering Problem (CEP)  
-**Course:** Introduction to AI Programming  
-**Institution:** University of Engineering and Technology Peshawar, Jalozai Campus  
 
 This folder contains the **Complex Engineering Problem (CEP)** project developed as part of the *Introduction to AI Programming* course. The project focuses on analyzing building-level energy consumption, solar PV generation, and electricity cost using real-world data.
 
