@@ -1,6 +1,6 @@
 ## Complex Engineering Problem (CEP)  
 
-This folder contains the **Complex Engineering Problem (CEP)** project developed as part of the *Introduction to AI Programming* course. The project focuses on analyzing building-level energy consumption, solar PV generation, and electricity cost using real-world data.
+This folder contains the **Complex Engineering Problem (CEP)** project developed as part of the **Introduction to AI Programming** course. The project focuses on analyzing building-level energy consumption, solar PV generation, and electricity cost using real-world data.
 
 ### Project Overview
 The project utilizes the **CityLearn 2022 dataset**, specifically:
